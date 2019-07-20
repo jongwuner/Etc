@@ -1,4 +1,4 @@
 # WEB_Toy
 
-지금 현 시점 : 알고리즘도 망각 90%, 웹 초짜, 뭐라도 해야겠다. 1D1C는 첫날부터 벌금물게 생김.<br><br>
--> 뭐라도 해보자.(19.07.20)
+Now at this point: Algorithm 90% forgetting, webbing, anything. 1D1C has a fine bite from the first day.
+-> Try Something.(19.07.20)
