@@ -12,4 +12,4 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
 
 # Now
 - Making PM by Hooking...<br>
- https://github.com/22hours/HIS/blob/master/14JongChu/README.md
+- Find Solution that is DLL Injection. (19-07-26)
