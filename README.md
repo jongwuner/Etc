@@ -5,6 +5,8 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
 - Try Something.
 - Rest API Explanation Start. (19.07.20)
 - Description of Git Start.. (19.07.21)
+- 활자인쇄소 Studying...
+-- Hooking Study.
 
 # Now
 - Making PM by Hooking...<br>
