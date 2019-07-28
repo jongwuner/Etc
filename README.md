@@ -12,4 +12,5 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
 
 # Now
 - Making PM by Hooking...<br>
-- Find Solution that is DLL Injection. (19-07-26)
+   - Find Solution that is DLL Injection. (19-07-26)
+   - Following Deviare. (19-07-28)
