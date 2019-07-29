@@ -5,7 +5,12 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
 - Try Something.
 - Rest API Explanation Start. (19.07.20)
 - Description of Git Start.. (19.07.21)
+- 활자인쇄소 Studying
+  - Deviare
+  - DLL Injection
+  - https://github.com/22hours/HIS/blob/master/14JongChu/README.md
 
 # Now
 - Making PM by Hooking...<br>
- https://github.com/22hours/HIS/blob/master/14JongChu/README.md
+   - Find Solution that is DLL Injection. (19-07-26)
+   - Following Deviare. (19-07-28)
