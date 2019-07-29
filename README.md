@@ -15,5 +15,8 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
    - Find Solution that is DLL Injection. (19-07-26)
    - Following Deviare. (19-07-28)
 
+# Future
+- DLL Injection && DLL **★CodeReview★**
+
 # Wiki
 - https://github.com/jongwuner/Etc/wiki
