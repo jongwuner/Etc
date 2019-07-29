@@ -17,6 +17,11 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
 
 # To-do
 - DLL Injection && DLL **★CodeReview★**
+- Kali Linux Simulation Hacking.
+- Reversing -> Make Game Hack.
+- Brain|Board Game -> Publish Google Markget.
+- PS
+- CV Page
 
 # Wiki
 - https://github.com/jongwuner/Etc/wiki
