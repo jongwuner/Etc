@@ -10,12 +10,12 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
   - DLL Injection
   - https://github.com/22hours/HIS/blob/master/14JongChu/README.md
 
-# Now
+# Issues
 - Making PM by Hooking...<br>
    - Find Solution that is DLL Injection. (19-07-26)
    - Following Deviare. (19-07-28)
 
-# Future
+# To-do
 - DLL Injection && DLL **★CodeReview★**
 
 # Wiki
