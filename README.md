@@ -26,6 +26,7 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
 - Reversing -> Make Game Hack.
 - Brain|Board Game -> Publish Google Markget
 - Tensorflow
+- ★취미영역, 영어공부, 위대한일상 etc. 1D1C git commit
 
 # Wiki
 - https://github.com/jongwuner/Etc/wiki
