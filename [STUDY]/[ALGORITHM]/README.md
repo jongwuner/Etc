@@ -4,6 +4,10 @@
 - 19.07.15 Code Force(19.08.07 안돼고있음.)
 - 19.08.11 1D1C에 Merge
 
+# For what?
+- 취업
+- 꾸준한 자기계발의 
+
 # A Competition A Week.(19.08~)
 
 # Reviews BOJ Codes.
