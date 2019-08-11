@@ -1,7 +1,8 @@
-# Algorithm
+# History[PS]
 - 16.12.26부터 시작.
 - 19.01.20부터 다시 시작.
 - 19.07.15 Code Force(19.08.07 안돼고있음.)
+- 19.08.11 1D1C에 Merge
 
 # A Competition A Week.(19.08~)
 
