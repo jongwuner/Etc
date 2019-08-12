@@ -9,16 +9,18 @@
 
 - 꾸준한 자기계발의 
 
-- 혹시모를 대회를 나갈 때    
+- 혹시모를 대회를 나갈 때
 
-  ​    
+- [알고리즘 목차]([https://jongwuner.github.io/2019/08/12/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AA%A9%EC%B0%A8/](https://jongwuner.github.io/2019/08/12/알고리즘-목차/))
 
    
 
 # CATEGORY
 
-1. [완전탐색](./PS_BRUTEFORCE.md) 
-2. 
+- [완전탐색](./PS_BRUTEFORCE.md) 
+
+- [동적계획법](./PS_DP)
+- 
 
 # A Competition A Week.(19.08~)
 
