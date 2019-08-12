@@ -6,10 +6,23 @@
 
 # For what?
 - 취업
+
 - 꾸준한 자기계발의 
-- 혹시모를 대회를 나갈 때. 
+
+- 혹시모를 대회를 나갈 때    
+
+  ​    
+
+   
+
+# CATEGORY
+
+1. [완전탐색](./PS_BRUTEFORCE.md) 
+2. 
 
 # A Competition A Week.(19.08~)
+
+- 실천이 쉽지 않음.
 
 # Reviews BOJ Codes.
 ![](https://user-images.githubusercontent.com/16419202/62713171-3fed6180-ba37-11e9-8d20-b108f99c2b9a.PNG)
@@ -21,3 +34,5 @@
   - ★ 속도값을 계산하는 과정에서 속력값이 커서 한 싸이클에 c보다 크고, 0보다 작아버릴때는?? 
 
 # ☆자주하는 실수모음
+
+- 절댓값 그래프. 17143
