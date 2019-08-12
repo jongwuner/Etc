@@ -11,14 +11,16 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
   - https://github.com/22hours/HIS/blob/master/14JongChu/README.md
 - Make a gitblog.(19.08.04~)
   - https://jongwuner.github.io
-
+- Success Deviare2. 
+    See the Result(Print Logger). (19-08-04)
 
 # Issues
 - Making PM by Hooking...<br>
    - Find Solution that is DLL Injection. (19-07-26)
-- Success Deviare2. 
-    See the Result(Print Logger). (19-08-04)
-- **종우너의 개발자스러운 블로그** 사진업로드 난관 (19.08.07)    
+- **개발자스러운 이야기**에 commit 비중 너무 많이 쏠림.
+- Evernote 1D1C 너무 많아서 과부하. 
+- 영어공부 계속밀려.
+
 # To-do
 - DLL Injection && DLL **★CodeReview★**
 - **Algorithm**. (1 week 1 compet)
@@ -27,6 +29,7 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
 - Brain|Board Game -> Publish Google Markget
 - Tensorflow
 - ★취미영역, 영어공부, 위대한일상 etc. 1D1C git commit
+- game hack & freeServer : http://gamezone.one/beluxe_MDXh52/4113171
 
 # Wiki
 - https://github.com/jongwuner/Etc/wiki
