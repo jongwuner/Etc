@@ -27,13 +27,15 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
 - **Algorithm**. (1 week 1 compet)
 - Kali Linux Simulation Hacking.
 - Reversing -> Make Game Hack.
-- Brain|Board Game -> Publish Google Markget
+- Brain|Board Game(Android) -> Publish Google Markget
+- 김집사 -> Kotlin
 - Tensorflow
 - ★취미영역, 영어공부, 위대한일상 etc. 1D1C git commit
 - game hack & freeServer : http://gamezone.one/beluxe_MDXh52/4113171
   - Get Resource. : http://zdosaz.blogspot.com/2011/06/blog-post.html  
 - **Basic1 :** C language
 - **Basic2 :** OOP (unmanaged Language)
+-> OOP Model(C# WPF MVVM) 
 
 # Wiki
 - https://github.com/jongwuner/Etc/wiki
