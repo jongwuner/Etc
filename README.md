@@ -20,6 +20,7 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
 - **개발자스러운 이야기**에 commit 비중 너무 많이 쏠림.
 - Evernote 1D1C 너무 많아서 과부하. 
 - 영어공부 계속밀려.
+- 알고리즘 복습 힘들어.. 진도 힘들어..
 
 # To-do
 - DLL Injection && DLL **★CodeReview★**
