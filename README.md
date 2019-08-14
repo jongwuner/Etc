@@ -31,6 +31,9 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
 - Tensorflow
 - ★취미영역, 영어공부, 위대한일상 etc. 1D1C git commit
 - game hack & freeServer : http://gamezone.one/beluxe_MDXh52/4113171
+  - Get Resource. : http://zdosaz.blogspot.com/2011/06/blog-post.html  
+- **Basic1 :** C language
+- **Basic2 :** OOP (unmanaged Language)
 
 # Wiki
 - https://github.com/jongwuner/Etc/wiki
