@@ -5,9 +5,9 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
 - Try Something.
 - Rest API Explanation Start. (19.07.20)
 - Description of Git Start.. (19.07.21)
-- 활자인쇄소 Studying
-  - Deviare
-  - DLL Injection
+- 활자인쇄소 Studying (19.08.18)
+  - 완성
+  - 포트폴리오 작성.
   - https://github.com/22hours/HIS/blob/master/14JongChu/README.md
 - Make a gitblog.(19.08.04~)
   - https://jongwuner.github.io
