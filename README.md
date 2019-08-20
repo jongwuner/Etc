@@ -21,7 +21,7 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
 - Evernote 1D1C 너무 많아서 과부하. 
 - 영어공부 계속밀려.
 - 알고리즘 복습 힘들어.. 진도 힘들어..
-- 부산여행
+- 부산여행(~19.08.21)
 
 # To-do
 - DLL Injection && DLL **★CodeReview★**
