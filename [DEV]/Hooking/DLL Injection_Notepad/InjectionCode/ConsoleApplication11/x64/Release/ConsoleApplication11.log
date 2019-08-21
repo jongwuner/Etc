@@ -1,7 +1,8 @@
-﻿  ConsoleApplication11.cpp
+﻿  pch.cpp
+  ConsoleApplication11.cpp
   코드를 생성하고 있습니다.
-  3 of 72 functions ( 4.2%) were compiled, the rest were copied from previous compilation.
+  69 of 72 functions (95.8%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   코드를 생성했습니다.
-  ConsoleApplication11.vcxproj -> C:\Users\jklh0\source\repos\ConsoleApplication11\x64\Release\ConsoleApplication11.exe
+  ConsoleApplication11.vcxproj -> C:\Users\jklh0\source\github\1D1C\[DEV]\Hooking\DLL Injection_Notepad\InjectionCode\x64\Release\ConsoleApplication11.exe

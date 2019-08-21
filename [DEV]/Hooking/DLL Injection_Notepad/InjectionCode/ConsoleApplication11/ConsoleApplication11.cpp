@@ -21,14 +21,20 @@ bool dll_injection(
 
 int main()
 {
+	bool chk = false;
 	DWORD pid = 0;
 	std::wstring process_name = L"notepad.exe"; // <- spoolsv.exe
 	std::wstring dll_name = L"C:\\jjongchuDll1.dll"; // <- typepress.dll
 
 	if (process_name_to_pid(pid, process_name)) {
 		dll_injection(pid, dll_name);
+		chk = true;
 	}
-	std::cout << "Success!\nDLL Injection .exe\nBy jjongwuner\n활자인쇄소 CEO\n19.07.30\n\n";
+	if (chk)
+		std::cout << "Success!\nDLL Injection .exe\nBy jjongwuner\n활자인쇄소 CEO\n19.07.30\n\n";
+	else
+		std::cout << "Fail" << endl;
+
 	return 0;
 }
 
