@@ -6,5 +6,8 @@
 # To-do
 
 
+- WPF Framework
+- C# Background Process
+- Semaphore
 - https://mrw0119.tistory.com/16?category=585887
 - http://www.csharpstudy.com/WinForms/WinForms-Intro.aspx
