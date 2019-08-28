@@ -37,6 +37,8 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
   - Get Resource. : http://zdosaz.blogspot.com/2011/06/blog-post.html  
 - **Basic1 :** C language 
   - OS제작프로젝트 : yes24
+    - IT EXPERT, 64비트 멀티코어 OS 원리와 구조 : OS 개발 60일 프로젝트
+    - https://www.youtube.com/watch?v=TmfPimwaM4Q
   - 텍스트기반 게임만들기 : https://www.youtube.com/watch?v=mBFERLupQOU&t=2142s
 - **Basic2 :** OOP (unmanaged Language)
   - OS제작프로젝트 : yes24
