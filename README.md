@@ -35,9 +35,14 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
 - ★취미영역, 영어공부, 위대한일상 etc. 1D1C git commit
 - game hack & freeServer : http://gamezone.one/beluxe_MDXh52/4113171
   - Get Resource. : http://zdosaz.blogspot.com/2011/06/blog-post.html  
-- **Basic1 :** C language
+- **Basic1 :** C language 
+  - OS제작프로젝트 : yes24
+  - 텍스트기반 게임만들기 : https://www.youtube.com/watch?v=mBFERLupQOU&t=2142s
 - **Basic2 :** OOP (unmanaged Language)
+  - OS제작프로젝트 : yes24
 -> OOP Model(C# WPF MVVM) 
+- Spring JSP. 게시판, 
+- 자체 
 
 # Wiki
 - https://github.com/jongwuner/Etc/wiki
