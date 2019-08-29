@@ -2,6 +2,9 @@
 # Created by https://www.gitignore.io/api/c,c++,node,python,csharp,windows,reactnative,visualstudio
 # Edit at https://www.gitignore.io/?templates=c,c++,node,python,csharp,windows,reactnative,visualstudio
 
+### Database ###
+/database.json
+
 ### C ###
 # Prerequisites
 *.d
