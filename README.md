@@ -7,13 +7,13 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
 - Description of Git Start.. (19.07.21)
 - 활자인쇄소 Studying (19.08.18)
   - 완성
+    - Background Controller 추가해서 최종본 완성(~19.9.15)
   - 포트폴리오 작성.
+    - 추후 학회배포 -> 교내배포 예정
   - https://github.com/22hours/HIS/blob/master/14JongChu/README.md
 - Make a gitblog.(19.08.04~)
   - https://jongwuner.github.io
-- Success Deviare2. 
-    See the Result(Print Logger). (19-08-04)
-- 22Hours Web Page Project(Node.js, React.js)(19-08-29)
+- 22Hours Web Page Project(Node.js, React.js, jQuery)(19-08-29)
 
 # Issues
 - Making PM by Hooking...<br>
