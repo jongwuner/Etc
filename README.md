@@ -8,6 +8,7 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
 - 활자인쇄소 Studying (19.08.18)
   - 완성
     - Background Controller 추가해서 최종본 완성(~19.9.15)
+    - TypressServer 
   - 포트폴리오 작성.
     - 추후 학회배포 -> 교내배포 예정
   - https://github.com/22hours/HIS/blob/master/14JongChu/README.md
