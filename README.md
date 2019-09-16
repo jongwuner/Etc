@@ -26,7 +26,7 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
 - 부산여행(~19.08.21)
 
 # To-do
-- Socket (Typress)
+- Socket (Typress).
 - DLL Injection && DLL **★CodeReview★**
 - **Algorithm**. (1 week 1 compet)
 - Kali Linux Simulation Hacking.
