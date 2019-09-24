@@ -46,7 +46,8 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
   - OS제작프로젝트 : yes24
 -> OOP Model(C# WPF MVVM) 
 - Spring JSP. 게시판, 
-- 자체 
+- 큐플레이
+- System-monitor
 
 # Wiki
 - https://github.com/jongwuner/Etc/wiki
