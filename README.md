@@ -33,7 +33,7 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
 - Reversing -> Make Game Hack.
 - Brain|Board Game(Android) -> Publish Google Markget
 - 김집사 -> Kotlin
-- Tensorflow
+- Tensorflow Omok Update
 - ★취미영역, 영어공부, 위대한일상 etc. 1D1C git commit
 - game hack & freeServer : http://gamezone.one/beluxe_MDXh52/4113171
   - Get Resource. : http://zdosaz.blogspot.com/2011/06/blog-post.html  
@@ -45,8 +45,8 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
 - **Basic2 :** OOP (unmanaged Language)
   - OS제작프로젝트 : yes24
 -> OOP Model(C# WPF MVVM) 
-- Spring JSP. 게시판, 
-- 큐플레이
+- Spring -> Typress Administrator Site
+- Cloud Game Flatform Like Facebook(큐플레이)(플랫폼제약X)(5G)
 - System-monitor
 
 # Wiki
