@@ -15,6 +15,7 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
 - Make a gitblog.(19.08.04~)
   - https://jongwuner.github.io
 - 22Hours Web Page Project(Node.js, React.js, jQuery)(19-08-29)
+- system-monitor-project
 
 # Issues
 - Making PM by Hooking...<br>
