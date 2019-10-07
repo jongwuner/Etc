@@ -8,12 +8,14 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
 - 활자인쇄소 Studying (19.08.18)
   - 완성
     - Background Controller 추가해서 최종본 완성(~19.9.15)
+    - TypressServer 
   - 포트폴리오 작성.
     - 추후 학회배포 -> 교내배포 예정
   - https://github.com/22hours/HIS/blob/master/14JongChu/README.md
 - Make a gitblog.(19.08.04~)
   - https://jongwuner.github.io
 - 22Hours Web Page Project(Node.js, React.js, jQuery)(19-08-29)
+- system-monitor-project
 
 # Issues
 - Making PM by Hooking...<br>
@@ -25,13 +27,14 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
 - 부산여행(~19.08.21)
 
 # To-do
+- Socket (Typress).
 - DLL Injection && DLL **★CodeReview★**
 - **Algorithm**. (1 week 1 compet)
 - Kali Linux Simulation Hacking.
 - Reversing -> Make Game Hack.
 - Brain|Board Game(Android) -> Publish Google Markget
 - 김집사 -> Kotlin
-- Tensorflow
+- Tensorflow Omok Update
 - ★취미영역, 영어공부, 위대한일상 etc. 1D1C git commit
 - game hack & freeServer : http://gamezone.one/beluxe_MDXh52/4113171
   - Get Resource. : http://zdosaz.blogspot.com/2011/06/blog-post.html  
@@ -43,8 +46,9 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
 - **Basic2 :** OOP (unmanaged Language)
   - OS제작프로젝트 : yes24
 -> OOP Model(C# WPF MVVM) 
-- Spring JSP. 게시판, 
-- 자체 
+- Spring -> Typress Administrator Site
+- Cloud Game Flatform Like Facebook(큐플레이)(플랫폼제약X)(5G)
+- System-monitor
 
 # Wiki
 - https://github.com/jongwuner/Etc/wiki
