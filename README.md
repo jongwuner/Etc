@@ -49,6 +49,7 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
 - Spring -> Typress Administrator Site
 - Cloud Game Flatform Like Facebook(큐플레이)(플랫폼제약X)(5G)
 - System-monitor
+- English Study Tutor 
 
 # Wiki
 - https://github.com/jongwuner/Etc/wiki
