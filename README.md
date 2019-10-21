@@ -53,4 +53,4 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
 
 # Wiki
 - https://github.com/jongwuner/Etc/wiki
-- Notion
+- Using Notion 
