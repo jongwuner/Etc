@@ -29,8 +29,9 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
 # To-do
 - Socket (Typress).
 - DLL Injection && DLL **★CodeReview★**
-- **Algorithm**. (1 week 1 compet)
+- **Algorithm**. (1 week 1 compet).
 - Kali Linux Simulation Hacking.
+  - Virgina Protect.
 - Reversing -> Make Game Hack.
 - Brain|Board Game(Android) -> Publish Google Markget
 - 김집사 -> Kotlin
@@ -43,13 +44,17 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
     - IT EXPERT, 64비트 멀티코어 OS 원리와 구조 : OS 개발 60일 프로젝트
     - https://www.youtube.com/watch?v=TmfPimwaM4Q
   - 텍스트기반 게임만들기 : https://www.youtube.com/watch?v=mBFERLupQOU&t=2142s
+  - C++ Game
 - **Basic2 :** OOP (unmanaged Language)
   - OS제작프로젝트 : yes24
 -> OOP Model(C# WPF MVVM) 
-- Spring -> Typress Administrator Site
+- Spring -> Typress Administrator Site, Virgina Project
 - Cloud Game Flatform Like Facebook(큐플레이)(플랫폼제약X)(5G)
 - System-monitor
-- English Study Tutor 
+- English Study Tutor & Platform(Github처럼 할 수 있는 싸이트)
+- Typress Data Science
+- Kaggle
+- 보안
 
 # Wiki
 - https://github.com/jongwuner/Etc/wiki
