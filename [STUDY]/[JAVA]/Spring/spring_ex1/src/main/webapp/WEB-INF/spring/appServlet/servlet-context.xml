@@ -10,18 +10,16 @@
 	<!-- DispatcherServlet Context: defines this servlet's request-processing infrastructure -->
 	
 	<!-- Enables the Spring MVC @Controller programming model -->
-	<annotation-driven />
-	
-	<!-- Bootstrap 불러오기 위함 -->
-	<resources location="/images/" mapping="/images/**" />
-	
-	<resources location="/stylesheets/" mapping="/stylesheets/**" />
-	
-	<resources location="/javascripts/" mapping="/javascripts/**" />
-	
 
+	<annotation-driven />
 	<!-- Handles HTTP GET requests for /resources/** by efficiently serving up static resources in the ${webappRoot}/resources directory -->
-	<resources mapping="/resources/**" location="/resources/" />
+
+	<resources location="/resources/assets/css/" mapping="/css/**" />
+	<resources location="/resources/assets/js/" mapping="/js/**" />
+	<resources location="/resources/assets/scss/" mapping="/sccs/**" />
+	<resources location="/resources/assets/vendor/" mapping="/vendor/**" />
+	<!-- Bootstrap 불러오기 위함 -->
+
 
 	<!-- Resolves views selected for rendering by @Controllers to .jsp resources in the /WEB-INF/views directory -->
 	<beans:bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
@@ -30,7 +28,6 @@
 	</beans:bean>
 	
 	<context:component-scan base-package="com.jongwuner.exapp" />
-	
 	
 	
 </beans:beans>
