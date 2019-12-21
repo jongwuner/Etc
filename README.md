@@ -16,6 +16,7 @@ Now at this point: Algorithm 90% forgetting, webbing, anything. <br>
   - https://jongwuner.github.io
 - 22Hours Web Page Project(Node.js, React.js, jQuery)(19-08-29)
 - system-monitor-project
+- [Resume](https://www.notion.so/jongchu/Resume-eb52c631d9e24dfbba9781ae4385560c)
 
 # Issues
 - Making PM by Hooking...<br>
