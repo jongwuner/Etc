@@ -2,7 +2,7 @@
 
 - Python Tensorflow Tutorial (17.03)
 - **동빈나 Youtube Tutorial 따라가는중**
-- 
+- 네이버 자동 포스팅 만드는 중 (21.01.27)
 
 # Issues
 
