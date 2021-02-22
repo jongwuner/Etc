@@ -38,4 +38,4 @@ listen이랑 server_name은 필요없는건가? `listen 80, 443;` 은 에러가 
 
 ### 맘스보드_정렬에 대한 내용은 최종적으로 만들어진 것에 대해, 문자열 오름차순 정렬을 해야겠다.
 
-[](https://alwaysemmyhope.com/ko/python/688844-sorting-with-openpyxl-python-excel-openpyxl.html)
+[파이썬 ](https://alwaysemmyhope.com/ko/python/688844-sorting-with-openpyxl-python-excel-openpyxl.html)
